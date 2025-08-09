@@ -48,10 +48,16 @@ The Shodew Group, a large hospitality chain with properties across India, was fa
 ## 📸 Dashboard Previews
 
 ### Power BI Dashboard
-![Power BI Dashboard](PowerBI_Shodew.png)
+![Power BI Dashboard](https://github.com/Shubham23-07/Hospitality-Data-Analysis/blob/main/Power%20BI%20Dashboard%20Hospitality%201.png)
+![Power BI Dashboard](https://github.com/Shubham23-07/Hospitality-Data-Analysis/blob/main/Power%20BI%20Dashboard%20Hospitality%20KPI.png)
+![Power BI Dashboard](https://github.com/Shubham23-07/Hospitality-Data-Analysis/blob/main/Power%20BI%20Dashboard%20Hospitality%20Hierarchy.png)
 
 ### Tableau Dashboard
-![Tableau Dashboard](Tableau_Shodew.png)
+![Tableau Dashboard](https://github.com/Shubham23-07/Hospitality-Data-Analysis/blob/main/Tableau%20Dashboard%20Hospitality.png)
+
+
+### Excel Dashboard
+![Excel Dashboard](https://github.com/Shubham23-07/Hospitality-Data-Analysis/blob/main/Excel%20Dashboard%20Hospitality.png)
 
 ---
 
@@ -67,6 +73,3 @@ The Shodew Group, a large hospitality chain with properties across India, was fa
 - Improved revenue forecasting with real-time data.
 
 ---
-
-## 📜 License
-This project is for educational and portfolio purposes.
